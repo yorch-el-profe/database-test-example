@@ -8,7 +8,7 @@ public class Database {
   private List<Product> db;
 
   public Database() {
-    db = new LinkedList<>();
+    // db = new LinkedList<>();
   }
 
   public void insert(Product data) {
